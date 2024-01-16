@@ -1,0 +1,109 @@
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\chere\Desktop\GitHub\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\chere\Desktop\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\chere\Desktop\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\SAPR\Desktop\програмирование 3 сем\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+D:\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+D:\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\refint\Tetris.dll
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\avoid\OneDrive\Документы\лабы пироги\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
